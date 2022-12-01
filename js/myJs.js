@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "https://minh311.github.io/do-biet-1/Untitled-6.html?fbclid=IwAR11so2dxwiUkMd875WtCgLUTLj_fWUpfLeIrBLUWBFc65L0ziaSLwEK6d8";
+            window.location = "Untitled-6.html";
           },
         });
       }
